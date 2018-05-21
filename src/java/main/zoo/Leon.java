@@ -4,6 +4,8 @@ package zoo;
 
 public class Leon extends Mamifero {
  
+  // Jesús Delgado Marín 21/05/2018
+ 
     private String rugido = "GRRRRR";
     
     Leon () {}
