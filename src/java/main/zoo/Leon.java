@@ -1,10 +1,11 @@
 package zoo;
 
-//21/05/2018
+
+//Jesus Delgado
+// 21/05/2018
 
 public class Leon extends Mamifero {
  
-  // Jesús Delgado Marín 21/05/2018
  
     private String rugido = "GRRRRR";
     
