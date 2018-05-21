@@ -77,4 +77,12 @@ public class Tiburon extends Pez {
         numTiburones--;
         super.finalize();
     }
+    
+    /**
+     * Muestra la especie de tiburon
+     */
+    public void mostrarEspecie(){
+        System.out.println("El tiburon es de la especie: "+ especie);
+    }
 }
+
